@@ -14,4 +14,5 @@ public class CrosshairSettings
     public bool ShowDot { get; set; } = false;
     public int DotSize { get; set; } = 3;
     public bool TShape { get; set; } = false;
+    public string Language { get; set; } = "zh";
 }
